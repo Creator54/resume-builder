@@ -2,4 +2,4 @@
 
 ### Preview
 
-![preview] (share.png)
+![preview](share.png)
